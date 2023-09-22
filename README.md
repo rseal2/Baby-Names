@@ -2,8 +2,6 @@
 
 Every year, The US Social Security Administration releases data regarding the most popular baby names of that year. Included in the dataset are the names given to newborn babies, the sex of the babies who were given that name, and the number of babies who were given that name. The data is sorted by the number of babies given a specific name, such that the most frequently given names appear first in the list. The list reports all female names first, followed by the male names.
 
-You should download this national dataset here: <https://www.ssa.gov/oact/babynames/limits.html>
-
 This program has the following functionality: 
 
 -   ask users which baby name they'd like to know more about and the sex of the babies with that name
